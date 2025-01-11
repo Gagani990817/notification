@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: notification-service
-        image: oyage-dockerhub-username-eka-methanta-danna/notification-service:latest
+        image: Gagani990817/notification-service:latest
         ports:
         - containerPort: 5000
